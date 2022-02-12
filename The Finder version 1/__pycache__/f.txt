@@ -1,0 +1,341 @@
+D:
+D:$RECYCLE.BIN
+D:$RECYCLE.BIN\S-1-5-21-2204174602-859560023-3734799223-1001
+D:$RECYCLE.BIN\S-1-5-21-2204174602-859560023-3734799223-1001\$RX3K21Y.tj
+D:programs
+D:programs\harry potter half blood prince
+D:programs\harry potter half blood prince\data
+D:programs\harry potter half blood prince\DirectX
+D:programs\harry potter half blood prince\Redist
+D:programs\Programs
+D:programs\Programs\auto-py-to-exe-master
+D:programs\Programs\auto-py-to-exe-master\auto_py_to_exe
+D:programs\Programs\auto-py-to-exe-master\auto_py_to_exe\web
+D:programs\Programs\auto-py-to-exe-master\auto_py_to_exe\web\img
+D:programs\Programs\auto-py-to-exe-master\auto_py_to_exe\__pycache__
+D:programs\Programs\auto-py-to-exe-master\output
+D:programs\Programs\FineReader
+D:programs\Programs\Format Factory 3.8.0
+D:programs\Programs\Microsoft Office 2016 Pro Plus V15.10
+D:programs\Programs\the finder
+D:programs\Programs\the finder\brochure
+D:programs\Programs\the finder\database
+D:programs\Programs\the finder\database\icons
+D:programs\Programs\the finder\database\photos
+D:programs\Programs\праграмаои нав
+D:programs\Programs\праграмаои нав\Game Maker
+D:programs\Programs\праграмаои нав\Game Maker\Sprites
+D:programs\Programs\праграмаои нав\Jeta Logo Designer
+D:programs\Programs\праграмаои нав\Jeta Logo Designer\data
+D:programs\Programs\праграмаои нав\Jeta Logo Designer\fonts
+D:programs\Programs\праграмаои нав\Jeta Logo Designer\tmpf
+D:programs\Recovery
+D:programs\Recovery\recoveree]
+D:programs\Recovery\recoveree]\Data_Rescue_PC3_v3.2 Latest Version +  Key
+D:programs\Recovery\recoveree]\Ontrack EasyRecovery Enterprise 11.1.0.0
+D:programs\Recovery\recoveree]\Ontrack EasyRecovery Enterprise 11.1.0.0\Ontrack EasyRecovery Enterprise 11.1.0.0
+D:programs\Recovery\recoveree]\Recuva Professional 1.52.1086 + Crack [KaranPC]
+D:programs\Recovery\recoveree]\Recuva Professional 1.52.1086 + Crack [KaranPC]\Crack
+D:programs\Recovery\recoveree]\Stellar Phoenix Windows Data Recovery Professional 5.0.0.0 + Keygen
+D:programs\Recovery\recoveree]\Stellar Phoenix Windows Data Recovery Professional 5.0.0.0 + Keygen\Stellar Phoenix Windows Data Recovery Pro
+D:programs\Recovery\recoveree]\Stellar Phoenix Windows Data Recovery Professional 5.0.0.0 + Keygen\Stellar Phoenix Windows Data Recovery Pro\Keygen
+D:resident.evil.5.gold.edition.tajfile.tj
+D:resident.evil.5.gold.edition.tajfile.tj\Resident Evil 5 Gold.Edition by xatab
+D:resident.evil.5.gold.edition.tajfile.tj\Resident Evil 5 Gold.Edition by xatab\Redist
+D:resident.evil.5.gold.edition.tajfile.tj\Resident Evil 5 Gold.Edition by xatab\Redist\DirectX
+D:teeeect
+D:teeeect\география 8-11 Турсунзода
+D:teeeect\география 8-11 Турсунзода\синфи 10
+D:teeeect\география 8-11 Турсунзода\синфи 11
+D:teeeect\география 8-11 Турсунзода\синфи 8
+D:teeeect\география 8-11 Турсунзода\синфи 9
+D:teeeect\з англиси Mamedova синфи 5 -11
+D:teeeect\Таърих.Исматов Ф синфи 8-9-10
+D:teeeect\химия 8-11
+D:teeeect\химия 8-11\химия 9-11 Муқимова
+D:teeeect\химия 8-11\Холматов Т химия снифи
+D:The Finder
+D:The Finder\The Finder version 1
+D:The Finder\The Finder version 1\icons
+D:The Finder\The Finder version 1\photos
+D:The Finder\The Finder version 1\__pycache__
+D:The Finder\The Finder version 2
+D:The Finder\The Finder version 2\icons
+D:The Finder\The Finder version 2\photos
+D:videoachki
+D:байдой нав
+D:байдой нав\Download
+D:барои виндовс задан
+D:барои виндовс задан\DAEMON Tools Ultra 4.0.1.0425
+D:барои виндовс задан\Daemon.Tools.Lite
+D:барои виндовс задан\DriverPack
+D:барои виндовс задан\DriverPack\Drivers
+D:барои виндовс задан\DriverPack\Indexes
+D:барои виндовс задан\DriverPack\Soft
+D:барои виндовс задан\DriverPack\Tools
+D:барои виндовс задан\DriverPack\Tools\Branding
+D:барои виндовс задан\DriverPack\Tools\DEVParser
+D:барои виндовс задан\DriverPack\Tools\ico
+D:барои виндовс задан\DriverPack\Tools\ico\about
+D:барои виндовс задан\DriverPack\Tools\ico\button
+D:барои виндовс задан\DriverPack\Tools\ico\infobar
+D:барои виндовс задан\DriverPack\Tools\ico\infobar\progress
+D:барои виндовс задан\DriverPack\Tools\ico\social
+D:барои виндовс задан\DriverPack\Tools\language
+D:барои виндовс задан\DriverPack\Tools\modules
+D:барои виндовс задан\DriverPack\Tools\modules\backuper
+D:барои виндовс задан\DriverPack\Tools\modules\backuper\ddriver
+D:барои виндовс задан\DriverPack\Tools\modules\backuper\packer
+D:барои виндовс задан\DriverPack\Tools\modules\bootstrap
+D:барои виндовс задан\DriverPack\Tools\modules\bootstrap\css
+D:барои виндовс задан\DriverPack\Tools\modules\bootstrap\img
+D:барои виндовс задан\DriverPack\Tools\modules\bootstrap\js
+D:барои виндовс задан\DriverPack\Tools\modules\bugreport
+D:барои виндовс задан\DriverPack\Tools\modules\CPU
+D:барои виндовс задан\DriverPack\Tools\modules\diagnostics
+D:барои виндовс задан\DriverPack\Tools\modules\drvsign
+D:барои виндовс задан\DriverPack\Tools\modules\lng
+D:барои виндовс задан\DriverPack\Tools\modules\touch
+D:ММТ
+D:ММТ\markaz19
+D:ММТ\ММТ-2016
+D:ММТ\ММТ-2018
+D:ММТ\ММТ-2019
+D:ММТ\тест mtf
+D:ММТ\тест mtf\МТФ
+D:ММТ\тест mtf\МТФ\анлисӣ мтф
+D:ММТ\тест mtf\МТФ\география мтф
+D:ММТ\тест mtf\МТФ\забон ва адабиёт мтф
+D:ММТ\тест mtf\МТФ\забони руси мтф
+D:ММТ\тест mtf\МТФ\мат-ка точики мтф
+D:ММТ\тест mtf\МТФ\тест  таърих мтф
+D:ММТ\тест mtf\МТФ\тест мтф биология
+D:ММТ\тест mtf\МТФ\тести ОДХ мтф
+D:ММТ\тест mtf\МТФ\тести физика синфи  МТФ
+D:ММТ\тест mtf\МТФ\тести хукук мтф
+D:ММТ\тест mtf\МТФ\тик мтф
+D:ММТ\тест mtf\МТФ\тик мтф\TIK  sinfi 10 mtf
+D:ММТ\тест mtf\МТФ\тик мтф\TIK  sinfi 10 mtf\TIK sinfi 5 mtf
+D:ММТ\тест mtf\МТФ\тик мтф\TIK  sinfi 10 mtf\TIK sinfi 6 mtf
+D:ММТ\тест mtf\МТФ\химия мтф
+D:морбозӣ
+D:морбозӣ\All Python  books
+D:морбозӣ\All Python  books\Mark Lutz
+D:морбозӣ\All Python  books\Mark Lutz\ 
+D:морбозӣ\All Python  books\Python-solver
+D:морбозӣ\All Python  books\Taskcode
+D:морбозӣ\All Python  books\Taskcode\taskcode
+D:морбозӣ\batch programming
+D:морбозӣ\encryptor&decryptor
+D:морбозӣ\python kivy
+D:морбозӣ\Python китоб тоҷикӣ
+D:морбозӣ\Python китоб тоҷикӣ\видео
+D:морбозӣ\python_libraries
+D:морбозӣ\qpython video
+D:морбозӣ\recover.py
+D:морбозӣ\recover.py\Новая папка
+D:морбозӣ\Taskcode
+D:морбозӣ\Taskcode\taskcode
+D:морбозӣ\Trasher
+D:морбозӣ\Trasher\New folder
+D:морбозӣ\Trasher\New folder\build
+D:морбозӣ\Trasher\New folder\build\console
+D:морбозӣ\Trasher\New folder\dist
+D:морбозӣ\Trasher\New folder\__pycache__
+D:морбозӣ\бо морбозӣ
+D:морбозӣ\бо морбозӣ\array abramyan
+D:морбозӣ\бо морбозӣ\files_lister
+D:морбозӣ\бо морбозӣ\list of words
+D:морбозӣ\бо морбозӣ\sarostima
+D:морбозӣ\бо морбозӣ\shahri
+D:морбозӣ\бо морбозӣ\Write in file
+D:морбозӣ\видео
+D:морбозӣ\видео\executable
+D:морбозӣ\видео\executable\auto-py-to-exe-master
+D:морбозӣ\видео\executable\auto-py-to-exe-master\auto-py-to-exe-master
+D:морбозӣ\видео\executable\auto-py-to-exe-master\auto-py-to-exe-master\auto_py_to_exe
+D:морбозӣ\видео\executable\auto-py-to-exe-master\auto-py-to-exe-master\auto_py_to_exe\web
+D:морбозӣ\видео\executable\auto-py-to-exe-master\auto-py-to-exe-master\auto_py_to_exe\web\img
+D:морбозӣ\видео\executable\auto-py-to-exe-master\auto-py-to-exe-master\auto_py_to_exe\__pycache__
+D:морбозӣ\видео\executable\auto-py-to-exe-master\auto-py-to-exe-master\output
+D:ПИТОН Видеоуроки
+D:ПИТОН Видеоуроки\часть 1
+D:ПИТОН Видеоуроки\часть 2
+D:ПИТОН Видеоуроки\часть 2\01 Course Setup
+D:ПИТОН Видеоуроки\часть 2\02 Company and Job Types
+D:ПИТОН Видеоуроки\часть 2\02 Company and Job Types\attached_files
+D:ПИТОН Видеоуроки\часть 2\02 Company and Job Types\attached_files\005 Company Types Overview
+D:ПИТОН Видеоуроки\часть 2\02 Company and Job Types\attached_files\006 Job Type Overviews
+D:ПИТОН Видеоуроки\часть 2\03 Resume Preparation
+D:ПИТОН Видеоуроки\часть 2\03 Resume Preparation\attached_files
+D:ПИТОН Видеоуроки\часть 2\03 Resume Preparation\attached_files\007 Resume Preparation
+D:ПИТОН Видеоуроки\часть 2\04 Online Presence
+D:ПИТОН Видеоуроки\часть 2\04 Online Presence\attached_files
+D:ПИТОН Видеоуроки\часть 2\04 Online Presence\attached_files\011 LinkedIn
+D:ПИТОН Видеоуроки\часть 2\04 Online Presence\attached_files\012 GitHub
+D:ПИТОН Видеоуроки\часть 2\04 Online Presence\attached_files\013 Personal Website and Portfolio
+D:ПИТОН Видеоуроки\часть 2\05 Networking
+D:ПИТОН Видеоуроки\часть 2\05 Networking\attached_files
+D:ПИТОН Видеоуроки\часть 2\05 Networking\attached_files\014 Building a Network
+D:ПИТОН Видеоуроки\часть 2\05 Networking\attached_files\015 Networking Events
+D:ПИТОН Видеоуроки\часть 2\06 Job Searching
+D:ПИТОН Видеоуроки\часть 2\06 Job Searching\attached_files
+D:ПИТОН Видеоуроки\часть 2\06 Job Searching\attached_files\016 Organization of Job Search
+D:ПИТОН Видеоуроки\часть 2\07 During the Interview Non-Technical
+D:ПИТОН Видеоуроки\часть 2\07 During the Interview Non-Technical\attached_files
+D:ПИТОН Видеоуроки\часть 2\07 During the Interview Non-Technical\attached_files\022 5 Steps of an Interview
+D:ПИТОН Видеоуроки\часть 2\07 During the Interview Non-Technical\attached_files\023 Tough Interview Questions
+D:ПИТОН Видеоуроки\часть 2\07 During the Interview Non-Technical\attached_files\024 Questions for Students
+D:ПИТОН Видеоуроки\часть 2\07 During the Interview Non-Technical\attached_files\025 Special Case Interview Questions
+D:ПИТОН Видеоуроки\часть 2\08 Post  Interview
+D:ПИТОН Видеоуроки\часть 2\08 Post  Interview\attached_files
+D:ПИТОН Видеоуроки\часть 2\08 Post  Interview\attached_files\026 Salary Negotiations
+D:ПИТОН Видеоуроки\часть 2\09 Technical Break Section
+D:ПИТОН Видеоуроки\часть 2\10 Introduction to Jupyter Notebooks
+D:ПИТОН Видеоуроки\часть 2\11 Algorithm Analysis and Big O
+D:ПИТОН Видеоуроки\часть 2\11 Algorithm Analysis and Big O\quizzes
+D:ПИТОН Видеоуроки\часть 2\12 Array Sequences
+D:ПИТОН Видеоуроки\часть 2\13 Stacks Queues and Deques
+D:ПИТОН Видеоуроки\часть 2\13 Stacks Queues and Deques\attached_files
+D:ПИТОН Видеоуроки\часть 2\13 Stacks Queues and Deques\attached_files\066 Stacks Overview
+D:ПИТОН Видеоуроки\часть 2\13 Stacks Queues and Deques\attached_files\068 Queue Overview
+D:ПИТОН Видеоуроки\часть 2\13 Stacks Queues and Deques\attached_files\070 Deque Overview
+D:ПИТОН Видеоуроки\часть 2\14 Linked Lists
+D:ПИТОН Видеоуроки\часть 2\14 Linked Lists\attached_files
+D:ПИТОН Видеоуроки\часть 2\14 Linked Lists\attached_files\081 Singly Linked Lists
+D:ПИТОН Видеоуроки\часть 2\14 Linked Lists\attached_files\083 Doubly Linked Lists
+D:ПИТОН Видеоуроки\часть 2\15 Recursion
+D:ПИТОН Видеоуроки\часть 2\16 Trees
+D:ПИТОН Видеоуроки\часть 2\16 Trees\attached_files
+D:ПИТОН Видеоуроки\часть 2\16 Trees\attached_files\107 Tree Representation Implementation - Part 1
+D:ПИТОН Видеоуроки\часть 2\16 Trees\attached_files\109 Nodes and References Implementation
+D:ПИТОН Видеоуроки\часть 2\16 Trees\attached_files\110 Tree Traversals
+D:ПИТОН Видеоуроки\часть 2\16 Trees\attached_files\111 Priority Queues with Binary Heaps
+D:ПИТОН Видеоуроки\часть 2\16 Trees\attached_files\112 Binary Heap Implementation
+D:ПИТОН Видеоуроки\часть 2\16 Trees\attached_files\113 Binary Search Trees
+D:ПИТОН Видеоуроки\часть 2\16 Trees\attached_files\114 Implementation of  Binary Search Trees - Part 1
+D:ПИТОН Видеоуроки\часть 2\17 Searching and Sorting
+D:ПИТОН Видеоуроки\часть 2\17 Searching and Sorting\attached_files
+D:ПИТОН Видеоуроки\часть 2\17 Searching and Sorting\attached_files\123 Sequential Search
+D:ПИТОН Видеоуроки\часть 2\17 Searching and Sorting\attached_files\125 Binary Search
+D:ПИТОН Видеоуроки\часть 2\17 Searching and Sorting\attached_files\127 Hashing
+D:ПИТОН Видеоуроки\часть 2\17 Searching and Sorting\attached_files\132 Bubble Sort
+D:ПИТОН Видеоуроки\часть 2\17 Searching and Sorting\attached_files\134 Selection Sort
+D:ПИТОН Видеоуроки\часть 2\17 Searching and Sorting\attached_files\136 Insertion Sort
+D:ПИТОН Видеоуроки\часть 2\17 Searching and Sorting\attached_files\138 Shell Sort
+D:ПИТОН Видеоуроки\часть 2\17 Searching and Sorting\attached_files\140 Merge Sort
+D:ПИТОН Видеоуроки\часть 2\17 Searching and Sorting\attached_files\142 Quick Sort
+D:ПИТОН Видеоуроки\часть 2\18 Graph Algorithms
+D:ПИТОН Видеоуроки\часть 2\18 Graph Algorithms\attached_files
+D:ПИТОН Видеоуроки\часть 2\18 Graph Algorithms\attached_files\153 Introduction to Graphs
+D:ПИТОН Видеоуроки\часть 2\18 Graph Algorithms\attached_files\154 Adjacency Matrix and Adjacency List
+D:ПИТОН Видеоуроки\часть 2\18 Graph Algorithms\attached_files\156 Word Ladder Example Problem
+D:ПИТОН Видеоуроки\часть 2\18 Graph Algorithms\attached_files\157 Breadth First Search
+D:ПИТОН Видеоуроки\часть 2\18 Graph Algorithms\attached_files\158 Knights Tour Example Problem
+D:ПИТОН Видеоуроки\часть 2\18 Graph Algorithms\attached_files\159 General Depth First Search
+D:ПИТОН Видеоуроки\часть 2\19 Riddles
+D:ПИТОН Видеоуроки\часть 2\20 Introduction to Mock Interview Section
+D:ПИТОН Видеоуроки\часть 2\20 Introduction to Mock Interview Section\attached_files
+D:ПИТОН Видеоуроки\часть 2\20 Introduction to Mock Interview Section\attached_files\184 Questions after an Interview Guide
+D:ПИТОН Видеоуроки\часть 2\21 Mock Interview 1 - E-Commerce Company
+D:ПИТОН Видеоуроки\часть 2\22 Mock Interview 2 - Large Search Engine Company
+D:ПИТОН Видеоуроки\часть 2\23 Mock Interview 3 - Ride Share Start-Up Company
+D:ПИТОН Видеоуроки\часть 2\24 Mock Interview 4 - Social Network Company
+D:ПИТОН Видеоуроки\часть 2\25 Bonus Special Offers
+D:ПИТОН Видеоуроки\часть 2\attached_files
+D:ПИТОН Видеоуроки\часть 2\attached_files\001-installation
+D:ПИТОН Видеоуроки\часть 3
+D:ПИТОН Видеоуроки\часть 3\01 Introduction
+D:ПИТОН Видеоуроки\часть 3\02 Basic Python Concepts
+D:ПИТОН Видеоуроки\часть 3\02 Basic Python Concepts\quizzes
+D:ПИТОН Видеоуроки\часть 3\03 Control Structures In Python
+D:ПИТОН Видеоуроки\часть 3\03 Control Structures In Python\quizzes
+D:ПИТОН Видеоуроки\часть 3\04 Functions  Modules In Python
+D:ПИТОН Видеоуроки\часть 3\04 Functions  Modules In Python\quizzes
+D:ПИТОН Видеоуроки\часть 3\05 Exception Handling  File Handling In Python
+D:ПИТОН Видеоуроки\часть 3\05 Exception Handling  File Handling In Python\quizzes
+D:ПИТОН Видеоуроки\часть 3\06 Some More Types In Python
+D:ПИТОН Видеоуроки\часть 3\06 Some More Types In Python\quizzes
+D:ПИТОН Видеоуроки\часть 3\07 Functional Programming In Python
+D:ПИТОН Видеоуроки\часть 3\08 Object Oriented Programming In Python
+D:ПИТОН Видеоуроки\часть 3\09 Regular Expressions In Python
+D:ПИТОН Видеоуроки\часть 3\10 Create GUI Apps In Pyton Using Tkinter
+D:ПИТОН Видеоуроки\часть 3\11 Building Calculator App Using Tkinter
+D:ПИТОН Видеоуроки\часть 3\12 Data Analysis Using Python
+D:ПИТОН Видеоуроки\часть 3\13 Make Web Applications In Python Using Django
+D:ПИТОН Видеоуроки\часть 3\13 Make Web Applications In Python Using Django\attached_files
+D:ПИТОН Видеоуроки\часть 3\13 Make Web Applications In Python Using Django\attached_files\156 Django tutorial 22 Navigation Bar Touchup
+D:ПИТОН Видеоуроки\часть 3\14 Make Web Applications in Python Using Flask
+D:ПИТОН Видеоуроки\часть 3\15 Learn How To Crawl Websites Using Python  Web Crawling
+D:ПИТОН Видеоуроки\часть 3\16 Python Best Practices Writing Clean  Efficient Python Code
+D:ПИТОН Видеоуроки\часть 3\17 Conclusion
+D:ПИТОН Видеоуроки\часть 4
+D:ПИТОН Видеоуроки\часть 4\01-course-introduction
+D:ПИТОН Видеоуроки\часть 4\02-installing-python-getting-started-a-top-secret-tip
+D:ПИТОН Видеоуроки\часть 4\02-installing-python-getting-started-a-top-secret-tip\attached_files
+D:ПИТОН Видеоуроки\часть 4\02-installing-python-getting-started-a-top-secret-tip\attached_files\003-installing-python-on-mac
+D:ПИТОН Видеоуроки\часть 4\03-variables-simple-little-boxes
+D:ПИТОН Видеоуроки\часть 4\03-variables-simple-little-boxes\quizzes
+D:ПИТОН Видеоуроки\часть 4\04-the-123s-numbers-in-python
+D:ПИТОН Видеоуроки\часть 4\04-the-123s-numbers-in-python\quizzes
+D:ПИТОН Видеоуроки\часть 4\05-the-abcs-how-to-use-strings-to-handle-text-in-python
+D:ПИТОН Видеоуроки\часть 4\05-the-abcs-how-to-use-strings-to-handle-text-in-python\quizzes
+D:ПИТОН Видеоуроки\часть 4\06-logic-and-conditional-flow
+D:ПИТОН Видеоуроки\часть 4\06-logic-and-conditional-flow\quizzes
+D:ПИТОН Видеоуроки\часть 4\07-python-datastructures
+D:ПИТОН Видеоуроки\часть 4\08-going-loopy-loops-in-python
+D:ПИТОН Видеоуроки\часть 4\09-getting-funky-functions-in-python
+D:ПИТОН Видеоуроки\часть 4\09-getting-funky-functions-in-python\quizzes
+D:ПИТОН Видеоуроки\часть 4\10-object-oriented-programming-oop
+D:ПИТОН Видеоуроки\часть 5
+D:ПИТОН Видеоуроки\часть 5\01 Introduction
+D:ПИТОН Видеоуроки\часть 5\02 Setup
+D:ПИТОН Видеоуроки\часть 5\03 Data Structures - Arrays
+D:ПИТОН Видеоуроки\часть 5\04 Data Structures - Linked Lists
+D:ПИТОН Видеоуроки\часть 5\05 Data Structures - Stacks & Queues
+D:ПИТОН Видеоуроки\часть 5\06 Data Structures - Binary Search Trees
+D:ПИТОН Видеоуроки\часть 5\07 Data Structures - Balanced Binary Trees (AVL Trees)
+D:ПИТОН Видеоуроки\часть 5\08 Data Structures - Balanced Binary Trees (Red-Black Trees)
+D:ПИТОН Видеоуроки\часть 5\09 Data Structures - Heaps
+D:ПИТОН Видеоуроки\часть 5\10 Data Structures - Associative Arrays _ Dictionaries
+D:ПИТОН Видеоуроки\часть 5\11 Data Structures - Tries
+D:ПИТОН Видеоуроки\часть 5\12 Graph Algorithms
+D:ПИТОН Видеоуроки\часть 5\13 Graph Algorithms - Graph Traversal Algorithms
+D:ПИТОН Видеоуроки\часть 5\14 Graph Algorithms - Shortest Paths
+D:ПИТОН Видеоуроки\часть 5\15 Graph Algorithms - Spanning Trees
+D:ПИТОН Видеоуроки\часть 5\16 Basic Sorting Algorithms
+D:ПИТОН Видеоуроки\часть 5\17 Source Code & Slides
+D:ПИТОН Видеоуроки\часть 6
+D:ПИТОН Видеоуроки\часть 6\01 Introduction and Setup the environment
+D:ПИТОН Видеоуроки\часть 6\02 Variables and Objects
+D:ПИТОН Видеоуроки\часть 6\03 Collections
+D:ПИТОН Видеоуроки\часть 6\04 Operations and Priorities
+D:ПИТОН Видеоуроки\часть 6\05 Decision Making
+D:ПИТОН Видеоуроки\часть 6\06 Loop Control
+D:ПИТОН Видеоуроки\часть 6\07 Functions
+D:ПИТОН Видеоуроки\часть 6\08 Storage__Files
+D:ПИТОН Видеоуроки\часть 6\09 Database __ Use Sqlite
+D:ПИТОН Видеоуроки\часть 6\10 Object Oriented Programming
+D:ПИТОН Видеоуроки\часть 6\11 Web Services
+D:ПИТОН Видеоуроки\часть 6\12 Built-in Functions
+D:ПИТОН Видеоуроки\часть 6\13 Multi Threading
+D:ПИТОН Видеоуроки\часть 6\14 Python GUI
+D:ПИТОН Видеоуроки\часть 6\15 Tic Tac Toy Game
+D:ПИТОН Видеоуроки\часть 6\16 Ticket reservation Python GUI Project
+D:ПИТОН Видеоуроки\часть 7
+D:ПИТОН Видеоуроки\часть 7\01 Python for Software Testers
+D:ПИТОН Видеоуроки\часть 7\02 Python programming kick off
+D:ПИТОН Видеоуроки\часть 7\03 Advance Python programming
+D:ПИТОН Видеоуроки\часть 7\04 Testing Project-1 _ Test Data Generation
+D:тгма
+D:ҷағовағ
+D:ҷағовағ\video
+D:ҷағовағ\video\finti shro
+D:ҷағовағ\ 
+D:ҷағовағ\ \1
+D:ҷағовағ\ \shef
+D:ҷағовағ\ \  
+D:ҷағовағ\пушка
+D:ҷағовағ\хушвахтф
+D:ҷағовағ\хушвахтф\зачет
+D:ҷағовағ\хушвахтф\Лучше чем люди

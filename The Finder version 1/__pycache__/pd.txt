@@ -1,0 +1,122 @@
+D:ММТ\markaz19\klaster1.chemo.kalid.pdf
+D:ММТ\markaz19\klaster1.matem.kalid.pdf
+D:ММТ\markaz19\klaster1.matem.pdf
+D:ММТ\markaz19\klaster1.physics.kalid.pdf
+D:ММТ\markaz19\klaster1.physics.pdf
+D:ММТ\ММТ-2016\1_example_b_tj.pdf
+D:ММТ\ММТ-2016\НамунаиТестхо_КисмиА.pdf
+D:ММТ\ММТ-2016\НамунаиТестхо_КисмиБ.pdf
+D:ММТ\ММТ-2016\Тест Комп. Б.pdf
+D:ММТ\ММТ-2016\тести А.pdf
+D:ММТ\ММТ-2018\B1-1_B1-2_tj.pdf
+D:ММТ\ММТ-2018\А 1з.точики.pdf
+D:ММТ\ММТ-2018\А 2 математика.pdf
+D:ММТ\ММТ-2018\А 3таърих.pdf
+D:ММТ\ММТ-2018\кластер 5 химия.pdf
+D:ММТ\ММТ-2018\кластери 5 биология.pdf
+D:ММТ\ММТ-2018\кластери 5 физика.pdf
+D:ММТ\ММТ-2019\з.тоҷикӣ.pdf
+D:ММТ\ММТ-2019\кластери 5 биология.pdf
+D:ММТ\ММТ-2019\кластери 5 физика.pdf
+D:ММТ\ММТ-2019\кластери 5 химия.pdf
+D:ММТ\ММТ-2019\математика.pdf
+D:ММТ\ММТ-2019\тхт ва ҳуқуқ.pdf
+D:морбозӣ\950. Сжатие бинарных последовательностей.pdf
+D:морбозӣ\All Python  books\1..ROLEVAYa.IGRA._razbor_.pdf
+D:морбозӣ\All Python  books\2005 - Азбука хакера 2.pdf
+D:морбозӣ\All Python  books\327. В одном шаге от счастья.pdf
+D:морбозӣ\All Python  books\688. Суслик и собака.pdf
+D:морбозӣ\All Python  books\943. Змейка – 3.pdf
+D:морбозӣ\All Python  books\Bizli_D_-_Python_Podrobny_spravochnik_4-e_iz.pdf
+D:морбозӣ\All Python  books\Built-in Functions — Python 3.7.0 documentation.pdf
+D:морбозӣ\All Python  books\cormen  -pascal.pdf
+D:морбозӣ\All Python  books\Examples.pdf
+D:морбозӣ\All Python  books\informat.pdf
+D:морбозӣ\All Python  books\Kotlin v dieistvii - Dmitrii Zhiemierov.pdf
+D:морбозӣ\All Python  books\Pro Git.pdf
+D:морбозӣ\All Python  books\progit-ru.1027.pdf
+D:морбозӣ\All Python  books\pyglet.pdf
+D:морбозӣ\All Python  books\Python Built-in Function _ Programiz.pdf
+D:морбозӣ\All Python  books\Python Methods, Functions, & Libraries _ Python Tutoria.pdf
+D:морбозӣ\All Python  books\python-crash-course.pdf
+D:морбозӣ\All Python  books\Python-современный стиль програмирования.pdf
+D:морбозӣ\All Python  books\Python-создание приложений.pdf
+D:морбозӣ\All Python  books\Python. Урок 5. Условные операторы и циклы.pdf
+D:морбозӣ\All Python  books\Python3 Самое необходимое.pdf
+D:морбозӣ\All Python  books\tik.pdf
+D:морбозӣ\All Python  books\tkinter messagebox.pdf
+D:морбозӣ\All Python  books\Голощапов А. Google Android. Программирование для мобильных устройств (2012).pdf
+D:морбозӣ\All Python  books\Гордон Я. Компьютерные вирусы без секретов (2004).pdf
+D:морбозӣ\All Python  books\Дмитрий Мусин-самоучитель Python.pdf
+D:морбозӣ\All Python  books\Задачи на python _ Nulled Warez Scripts.pdf
+D:морбозӣ\All Python  books\Изучаем Python-making programs, apps and web-apps.pdf
+D:морбозӣ\All Python  books\Инструменты_ тактика и мотивы хакеров. Знай своего врага (2003).pdf
+D:морбозӣ\All Python  books\Интерактивный учебник языка Python.pdf
+D:морбозӣ\All Python  books\каплан.pdf
+D:морбозӣ\All Python  books\Касперски К. Техника сетевых атак (2001).pdf
+D:морбозӣ\All Python  books\М.Э.Абрамян. 1000 ЗАДАЧ ПО ПРОГРАММИРОВАНИЮ. Часть 1.pdf
+D:морбозӣ\All Python  books\М.Э.Абрамян. 1000 ЗАДАЧ ПО ПРОГРАММИРОВАНИЮ. Часть 2.pdf
+D:морбозӣ\All Python  books\М.Э.Абрамян. 1000 ЗАДАЧ ПО ПРОГРАММИРОВАНИЮ. Часть 3.pdf
+D:морбозӣ\All Python  books\Прохоренок Н.А. - PyQt. Создание оконных приложений на Python 3 - 2011.pdf
+D:морбозӣ\All Python  books\Стандартная библиотека Python — Википедия.pdf
+D:морбозӣ\All Python  books\Стандартные библиотеки Python _ Losst.pdf
+D:морбозӣ\All Python  books\ХАЛЛИ  АБРАМЯН  ТОЧИКИ.pdf
+D:морбозӣ\All Python  books\Хахаев И.А. - Практикум по алгоритмизации и программированию на Python.pdf
+D:морбозӣ\All Python  books\Щеглов А.Ю. Защита компьютерной информации от несанкционированнпа (2004).pdf
+D:морбозӣ\All Python  books\Mark Lutz\1. Марк Лутц - Программирование на Python. Том 1.pdf
+D:морбозӣ\All Python  books\Mark Lutz\2. Марк Лутц - Программирование на Python. Том 2.pdf
+D:морбозӣ\All Python  books\Mark Lutz\Лутц М. - Изучаем Python (4-е издание)- 2011.pdf
+D:морбозӣ\All Python  books\Python-solver\15 Essential Python Interview Questions _ Codementor.pdf
+D:морбозӣ\All Python  books\Python-solver\binary.pdf
+D:морбозӣ\All Python  books\Python-solver\concatenation.pdf
+D:морбозӣ\All Python  books\Python-solver\lcm.pdf
+D:морбозӣ\All Python  books\Python-solver\line-word-char.pdf
+D:морбозӣ\All Python  books\Python-solver\max-list.pdf
+D:морбозӣ\All Python  books\Python-solver\words-reverse.pdf
+D:морбозӣ\All Python  books\Python-solver\В квадратной матрице вычесть последнюю строку из осталь.pdf
+D:морбозӣ\All Python  books\Python-solver\Возведение чисел в степень до заданного предела.pdf
+D:морбозӣ\All Python  books\Python-solver\Вывести уравнение прямой, проходящей через заданные точ.pdf
+D:морбозӣ\All Python  books\Python-solver\Вывод данных в поля заданной ширины.pdf
+D:морбозӣ\All Python  books\Python-solver\Вывод таблицы значений функции.pdf
+D:морбозӣ\All Python  books\Python-solver\Вывод таблицы символов (английской и русской).pdf
+D:морбозӣ\All Python  books\Python-solver\Вычисление площади поверхности цилиндра.pdf
+D:морбозӣ\All Python  books\Python-solver\Вычислить продолжительность года на планетах.pdf
+D:морбозӣ\All Python  books\Python-solver\Задача _Заем_.pdf
+D:морбозӣ\All Python  books\Python-solver\Записать в файл расстояния между точками.pdf
+D:морбозӣ\All Python  books\Python-solver\Логические операторы, булевый тип данных.pdf
+D:морбозӣ\All Python  books\Python-solver\Найти все возможные корни уравнения вида ax + by + cz =.pdf
+D:морбозӣ\All Python  books\Python-solver\Найти площадь и периметр прямоугольного треугольника.pdf
+D:морбозӣ\All Python  books\Python-solver\Найти сумму n-элементов ряда 1, -0.5, 0.25, -0.125, .._.pdf
+D:морбозӣ\All Python  books\Python-solver\Найти сумму и количество элементов последовательности, .pdf
+D:морбозӣ\All Python  books\Python-solver\Написать функцию, вычисляющую сумму элементов главной и.pdf
+D:морбозӣ\All Python  books\Python-solver\Обмен значений переменных.pdf
+D:морбозӣ\All Python  books\Python-solver\Определить количество введенных простых чисел.pdf
+D:морбозӣ\All Python  books\Python-solver\По остатку от деления целой части значения функции на ч.pdf
+D:морбозӣ\All Python  books\Python-solver\Посчитать количества одинаковых элементов в списке.pdf
+D:морбозӣ\All Python  books\Python-solver\Посчитать количество определенных слов в тексте.pdf
+D:морбозӣ\All Python  books\Python-solver\Посчитать сумму и произведение цифр числа.pdf
+D:морбозӣ\All Python  books\Python-solver\Посчитать четные и нечетные цифры числа.pdf
+D:морбозӣ\All Python  books\Python-solver\Проверка гипотезы Сиракуз.pdf
+D:морбозӣ\All Python  books\Python-solver\Программа _Простейший калькулятор_.pdf
+D:морбозӣ\All Python  books\Python-solver\Случайные числа в заданных диапазонах.pdf
+D:морбозӣ\All Python  books\Python-solver\Функция, возвращающая сумму чисел строки.pdf
+D:ПИТОН Видеоуроки\часть 2\024-final-project.pdf
+D:ПИТОН Видеоуроки\часть 2\03 Resume Preparation\009 List of Resume Creation Websites.pdf
+D:ПИТОН Видеоуроки\часть 4\02-installing-python-getting-started-a-top-secret-tip\attached_files\003-installing-python-on-mac\Mac-Installation.pdf
+D:тгма\English Grammar (Basic).pdf
+D:тгма\testmaster_all.pdf
+D:тгма\МАНТИК.pdf
+D:тгма\С.АЙНИ_ЁДДОШТХО.pdf
+D:ҷағовағ\пушка\bruno_mars_-_24k_magic_(zf.fm).pdf
+D:ҷағовағ\пушка\bruno_mars_-_versace_on_the_floor_(zf.fm).pdf
+D:ҷағовағ\пушка\cake by the ocean.pdf
+D:ҷағовағ\пушка\charly puth - attention.pdf
+D:ҷағовағ\пушка\iamgine dragons im so sorry lyrics - Google Search.pdf
+D:ҷағовағ\пушка\Justin Bieber -  Company.pdf
+D:ҷағовағ\пушка\Justin Bieber - Sorry.pdf
+D:ҷағовағ\пушка\khalid - talk.pdf
+D:ҷағовағ\пушка\old town road.pdf
+D:ҷағовағ\пушка\superman.pdf
+D:ҷағовағ\пушка\the_chainsmokers__5_seconds_of_summer_-_who_do_you_love.pdf
+D:ҷағовағ\пушка\tired.pdf
+D:ҷағовағ\пушка\trabajo.pdf
